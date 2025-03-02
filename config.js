@@ -20,8 +20,8 @@ for (let i = 0; i < ownerlist.length; i++) {
 }
 //
 global.botname = process.env.BOTNAME || 'TOHID-AI';
-global.pairingNumber = process.env.BOT_NUMBER || '918930358452' ;  // put your number here
-global.SESSION_ID = process.env.SESSION_ID || '' ;  // put your session id here
+global.pairingNumber = process.env.BOT_NUMBER || '923287557784' ;
+global.SESSION_ID = process.env.SESSION_ID || 'KYJzyYhS#oPWnd1WdwoKH1XElcuej-XG73pKZczkBGvwJhd3Xbvg' ;
 
 global.mods = []
 global.prems = []
